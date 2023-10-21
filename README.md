@@ -5,10 +5,10 @@ C program for a simple calculator with a menu-based interface. The calculator al
 
 Display a list to the user with the following options:
 
-addition
-the proposal
-multiplication
-to divide
-exit
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+5.Exit
 
 If the user chooses "Exit", the program terminates.
